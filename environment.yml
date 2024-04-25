@@ -1,0 +1,8 @@
+name: pvs_transport_env
+channels:
+  - conda-forge
+dependencies:
+  - pyclesperanto-prototype
+  - matplotlib
+  - microfilm
+  - jupyter
